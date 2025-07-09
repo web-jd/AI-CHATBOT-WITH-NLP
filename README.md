@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-*ENTER DESCRIPTION OF OUR TASK*:
+*DESCRIPTION OF OUR TASK*:
 Python AI Chatbot with Natural Language Processing (NLP)
 
 Artificial Intelligence (AI) chatbots have become an integral part of modern digital interactions. From customer support to virtual assistants, AI chatbots can simulate human-like conversations and offer quick, automated responses to user queries. Python, being a widely-used programming language in AI and machine learning, provides robust tools and libraries to create intelligent chatbots, especially when combined with Natural Language Processing (NLP).
